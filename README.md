@@ -1,0 +1,1 @@
+npm i --save-dev @babel/core @babel/preset-env @babel/cli babel-loader webpack webpack-cli regenerator-runtime core-js@3
